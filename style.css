@@ -1,0 +1,30 @@
+span.a {
+    display: inline;
+    border: 1px solid blue;
+    background-color: yellow;
+    padding: 5px;
+    /* width: 100px;
+    height: 100px;
+    margin-top: 50px; */
+
+}
+
+.b {
+    display: inline-block;
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    padding: 5px;
+    /* margin-top: 50px; */
+}
+
+span.c {
+    display: inline-block;
+    border: 1px solid blue;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+
+}
